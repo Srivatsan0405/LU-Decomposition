@@ -48,7 +48,9 @@ print(sol)
 ```
 
 ## Output:
-![lu decomposition]()
+![image](https://github.com/Srivatsan0405/LU-Decomposition/assets/139841630/9930e10b-725d-44e8-98eb-f913de2129bb)
+
+![image](https://github.com/Srivatsan0405/LU-Decomposition/assets/139841630/8cc2e743-e56f-46ee-91b6-837f624bab9e)
 
 
 ## Result:
