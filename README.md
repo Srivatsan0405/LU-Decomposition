@@ -41,8 +41,9 @@ print(X)
 ```
 
 ## Output:
-![lu decomposition](./images/Screenshot%20from%202023-01-11%2020-33-23.png)
-![lu decomposition](./images/decomposition.png)
+![image](https://github.com/d-kavinraja/LU-Decomposition/assets/139841630/83602f1a-0dbb-4c83-90d4-9928068f3d46)
+
+![image](https://github.com/d-kavinraja/LU-Decomposition/assets/139841630/9531237a-72fd-4c74-a1bf-c65a31956afc)
 
 
 ## Result:
